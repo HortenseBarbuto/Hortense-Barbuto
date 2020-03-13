@@ -1,0 +1,25 @@
+
+.CSS {
+    background-color: white;
+}
+body{
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+    color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: center;
+    flex-direction: row;
+}
+button{
+      height: 38px;width:px;
+      background-color: #F6F6F6;
+      font-size: 15px;color: #222222;
+      margin-top:30px;
+      border: 1px solid #E4E4E4
+}
+<div><style>
+div.a {
+  text-align: center;
+}  
+</style></div>
